@@ -1,0 +1,8 @@
+chirag
+3000
+chirag_17
+Chirag@123
+Name:- chirag
+opening balance= 2000
+deposit amount is 2000 and balance is 4000
+withdraw amount:- 1000 balance= 3000
